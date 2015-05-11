@@ -7,8 +7,8 @@ I'm using [this example formula](https://github.com/Homebrew/homebrew/blob/maste
 ## realpath
 
 ```
-brew tap strayptr/tap
 brew update
+brew tap strayptr/tap
 brew install realpath
 ```
 
