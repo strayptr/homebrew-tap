@@ -14,4 +14,4 @@ brew install realpath
 
 This is meant to be a reliable, safe, and simple way for OS X users to install realpath.  The formula verifies the sha256 of the code archive file from [strayptr/realpath](https://github.com/strayptr/realpath), then builds and installs it using Homebrew's standard `bin.install` method.  The resulting `realpath` binary usually ends up at `/usr/local/bin/realpath`.
 
-It's also meant to be a stable formula for other developers to create projects whose installation process requires it, as I did.
+It's also meant to be a stable formula for developers to create projects whose installation process requires it.
