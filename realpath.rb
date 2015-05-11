@@ -5,6 +5,7 @@ class Realpath < Formula
   revision 1
   stable do
     url "https://github.com/strayptr/realpath/archive/1.0.0.tar.gz"
+    sha256 "00aec70acb143a4c9450d5ed072da2a5bc83d99de401bf169f90ebe8b8a2ccc2"
   end
 
   def install
